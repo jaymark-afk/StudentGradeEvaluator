@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.landingPage{
+    background-image: url(../img/bg-img.png);
+}
+.frontPage{
+    float: right;
+    padding: 300px 50px 300px 50px;
+    height: 692px;
+    text-align: center;
+    background: #008080;
+    border-radius: 0px;
+    box-shadow: 6px -6px 12px white, -6px 6px 12px rgba(0, 128, 128, 0.11);
+}
+h1{
+    font-family: 'Segoe UI';
+    color: white;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+#btn{
+    background-color:#ffffff;
+    border-radius: 31px;
+    box-shadow: inset 5px -5px 44px #b5b5b5, inset -5px 5px 44px #ffffff;
+    color: teal;
+    padding: 10px 15px 10px 15px;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+}
+.studentGrade{
+    padding: 40px 50px 40px 50px;
+    background: linear-gradient(315deg, #008989, #007373);
+    box-shadow: 17px -17px 34px #005d5d, -17px 17px 34px #00a3a3;
+    color: white;
+    border-radius: 31px;
+}
+.landingPage1{
+    padding: 40px 300px 40px 300px;
+    background-color: teal;
+}
+#butt{
+    border: white;
+    border-radius: 31px;
+    height: 30px;
+    width: 80px;
+    color: teal;
+    margin-left:70%;
+    font-weight: 700;
+    text-align: center;
+    border-color: teal;
+    background: #ffffff;
+    box-shadow: inset 5px -5px 44px #b5b5b5, inset -5px 5px 44px #ffffff;
+    padding-bottom: 2px;
+}
+#m{
+    padding-right: 150px;
+}
+#s{
+    padding-right: 135px;
+}
+#e{
+    padding-right: 137px;
+}
+#f{
+    padding-right: 136px;
+}
+#h{
+    padding-right: 162px;
+}
+h3{
+    padding-left: 80px;
+}
+#g{
+    padding-left: 183px;
+}
+#r{
+    padding-left: 195px;
+}
+#rank{
+    padding-left: 50px;
+    font-size: 30px;
+}
+#k{
+    font-size: 30px;
+}
+p{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: 'Segoe UI';
+}
+h2{
+    margin-bottom: 5px;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+}
+input{
+    text-align: center;
+}
+h3{
+    font-family: 'Segoe UI';
+    font-weight: 500;
+}
+#title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#quit{
+    border: white;
+    border-radius: 31px;
+    height: 30px;
+    width: 80px;
+    color: white;
+    float: right;
+    font-weight: 700;
+    text-align: center;
+    border-color: maroon;
+    background-color: maroon;
+    padding-top:2px ;
+}
